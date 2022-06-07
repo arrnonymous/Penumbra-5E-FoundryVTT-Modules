@@ -8,7 +8,7 @@
   "styles": [],
   "scripts": ["penumbra5ewp.js"],
   "manifest": "https://raw.githubusercontent.com/arrnonymous/Penumbra-5E-FoundryVTT-Modules/main/Weapon%20Properties/module.json",
-  "download": "https://github.com/arrnonymous/Penumbra-5E-FoundryVTT-Modules/blob/main/Weapon%20Properties/main.zip",
+  "download": "https://github.com/arrnonymous/Penumbra-5E-FoundryVTT-Modules/blob/main/Weapon%20Properties/archive/main.zip",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9"
 }
