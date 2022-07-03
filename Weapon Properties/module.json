@@ -2,7 +2,7 @@
   "name": "penumbra5ewp",
   "title": "Penumbra 5E Weapon Properties",
   "description": "Adds Penumbra 5E new weapon properties",
-  "version": "0.2",
+  "version": "0.3",
   "author": "Arr!",
   "systems": ["dnd5e"],
   "styles": [],
